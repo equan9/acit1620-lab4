@@ -33,9 +33,8 @@ h3 {
 
 footer {
     text-align: center;
-    height: 50px;
+    border-top: black;
     color: hsl(var(--base-color), 60%);
-    background:white;
     position: fixed;
     left: 0;
     bottom: 0;
