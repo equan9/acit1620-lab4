@@ -33,10 +33,12 @@ h3 {
 
 footer {
     text-align: center;
-    border-top: black;
     color: hsl(var(--base-color), 60%);
     position: fixed;
-    left: 0;
+    left:0;
     bottom: 0;
     width: 100%;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color:black;
 }
