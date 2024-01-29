@@ -1,0 +1,26 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+header {
+    text-align: center;
+    color: white;
+    background-color: teal;
+    margin-bottom: 1rem;
+    padding: 1rem
+}
+
+h2 {
+    text-align: left;
+    margin-bottom: 1rem;
+    padding: 1rem
+}
+
+h3 {
+    text-align: left;
+    margin-bottom: 1rem;
+    padding: 1rem
+}
