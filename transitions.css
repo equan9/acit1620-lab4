@@ -35,13 +35,14 @@ header {
     top: 10px;
 }
 
-li {
-    list-style-type: none;
-}
-
 a:link {
     text-decoration: none;
     color: hsl(var(--base-color), 60%);
+}
+
+.header li:hover {
+    color:var(--base-color);
+    background-color:blue;
 }
 
 
