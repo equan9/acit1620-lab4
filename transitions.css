@@ -19,6 +19,22 @@ header {
     padding: 3rem;
 }
 
+.wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.wrapper li {
+    color: var(--base-color);
+    font-weight: bold;
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+    position: relative;
+    top: 10px;
+}
+
 li {
     list-style-type: none;
 }
